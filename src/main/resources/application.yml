@@ -3,3 +3,10 @@ guru:
     username: JMS Lukas
     password: pwd123jms
     dburl: asdlkjadlk_jms
+
+---
+spring:
+  profiles: ES
+guru:
+  jms:
+    username: JMS Lukas ** ES

@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username: JMS Lukas
+    password: pwd123jms
+    dburl: asdlkjadlk_jms

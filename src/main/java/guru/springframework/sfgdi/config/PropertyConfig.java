@@ -16,7 +16,7 @@ import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 @PropertySource("classpath:datasource.properties")
 public class PropertyConfig {
     /* VARIABLEN */
-    @Value("${guru.user}")
+    @Value("${guru_username}")
     String user;
 
     @Value("${guru.password}")
